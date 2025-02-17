@@ -1,10 +1,8 @@
 ---
 
-# 👋 Olá, me chamo **Vitor Mendonça**!  
-
 📍 **Desenvolvedor Full Stack Junior** | 🎓 **Estudante de Engenharia de Software**  
 
-
+ Estudante de Engenharia de Software no IFSP - São Carlos
 
 ---
 
@@ -51,6 +49,14 @@
 🔹 [**Sudoku App**](https://github.com/Vitor0389/sudoku-app) - Aplicação web de um jogo de Sudoku.  
 
 🔹 [**CTRuco**](https://github.com/Vitor0389/CTruco) - Contribuição na construção de um bot(em Java) nesse jogo de truco escrito pelo meu professor.
+
+🔹 [**Student Management System**](https://github.com/lhjundi/StudentManagementSystem) - Contribuição na construção de uma aplicação em Java para gerenciamento de alunos utilizando JPA com Hibernate e H2.
+
+🔹 [**Car Workshop Application**](https://github.com/Vitor0389/CTruco) - Contribuição na construção de uma aplicação para uma oficina de carros em Java para estudo 
+do Spring Boot.
+
+🔹 [**Machado**](https://github.com/ax-comp-scl/machado) - Trabalho como QA nesse framework que armazena, procura e expõe dados biológicos.
+
 ---
 
 ## 📫 **Entre em Contato**  
