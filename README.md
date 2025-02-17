@@ -66,7 +66,7 @@
 
 ## 📫 **Entre em Contato**  
 
-🔗 **[LinkedIn](#)** *(https://www.linkedin.com/in/vitor-mendonça-15b035277/)*  
+🔗 **[LinkedIn](https://www.linkedin.com/in/vitor-mendonça-15b035277/)**  
 📧 **Email:** vitor0389@gmail.com  
 
 🚀 Sempre aberto a novas oportunidades e desafios!  
