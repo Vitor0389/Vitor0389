@@ -38,7 +38,9 @@
 ## 📂 **Projetos e Repositórios**  
 
 🔹 [**Estrutura de Dados**](https://github.com/Vitor0389/esdd) - Trabalhos práticos em C relacionados à estrutura de dados.
+
 🔹 [**Sudoku App**](https://github.com/Vitor0389/sudoku-app) - Aplicação web de um jogo de Sudoku.  
+
 🔹 [**CTRuco**](https://github.com/Vitor0389/CTruco) - Contribuição na construção de um bot(em Java) nesse jogo de truco escrito pelo meu professor.
 ---
 
