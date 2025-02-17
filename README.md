@@ -8,6 +8,15 @@
 
 ---
 
+## 🌍 **Linguagens Naturais**  
+
+![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge&logo=googletranslate)  
+![Inglês](https://img.shields.io/badge/Inglês-Intermediário-blue?style=for-the-badge&logo=googletranslate)  
+
+Possuo português como linguagem nativa e Ingles Avançado.
+
+---
+
 ## 🧑‍💻 **Linguagens de Programação**  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)  
@@ -32,6 +41,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=for-the-badge&logo=postgresql)  
 ![Oracle](https://img.shields.io/badge/Oracle%20SQL-19c-red?style=for-the-badge&logo=oracle)  
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-Oracle-red?style=for-the-badge&logo=oracle)  
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb)
 
 ---
 
