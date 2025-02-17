@@ -27,20 +27,20 @@
 
 ---
 
-## 🚀 **Tecnologias e Frameworks**  
+## 🚀 **Tecnologias e Frameworks**
 
-![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-18-green?style=for-the-badge&logo=nodedotjs)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green?style=for-the-badge&logo=springboot)  
+![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-20.5.0-green?style=for-the-badge&logo=nodedotjs)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.2-green?style=for-the-badge&logo=springboot)  
 
 ---
 
-## 🛢️ **Bancos de Dados**  
+## 🛢️ **Bancos de Dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=for-the-badge&logo=postgresql)  
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-19c-red?style=for-the-badge&logo=oracle)  
-![PL/SQL](https://img.shields.io/badge/PL/SQL-Oracle-red?style=for-the-badge&logo=oracle)  
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.3-blue?style=for-the-badge&logo=postgresql)  
+![Oracle](https://img.shields.io/badge/Oracle%20SQL-21c-red?style=for-the-badge&logo=oracle)  
+![PL/SQL](https://img.shields.io/badge/PL/SQL-Oracle%2021c-red?style=for-the-badge&logo=oracle)  
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0.5-green?style=for-the-badge&logo=mongodb) 
 
 ---
 
