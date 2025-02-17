@@ -13,7 +13,6 @@
 ![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge&logo=googletranslate)  
 ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-blue?style=for-the-badge&logo=googletranslate)  
 
-Possuo português como linguagem nativa e Ingles Avançado.
 
 ---
 
