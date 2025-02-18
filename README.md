@@ -32,10 +32,11 @@
 
 ---
 
-## 🛠️ **Tecnologias que Estou Aprendendo**  
+## 🛠️ **Tecnologias que Estou Aprendendo**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?style=for-the-badge&logo=typescript)  
-![Docker](https://img.shields.io/badge/Docker-27.5-blue?style=for-the-badge&logo=docker)  
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?style=for-the-badge&logo=typescript)
+![Docker](https://img.shields.io/badge/Docker-27.5-blue?style=for-the-badge&logo=docker)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.1.10-blue?style=for-the-badge&logo=kotlin)
 
 ---
 
