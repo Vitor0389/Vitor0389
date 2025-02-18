@@ -38,6 +38,7 @@
 ![Docker](https://img.shields.io/badge/Docker-27.5-blue?style=for-the-badge&logo=docker)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.1.10-blue?style=for-the-badge&logo=kotlin)
 
+
 ---
 
 ## 🛢️ **Bancos de Dados**  
