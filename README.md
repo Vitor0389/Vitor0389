@@ -29,6 +29,7 @@
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)  
 ![Node.js](https://img.shields.io/badge/Node.js-20.5.0-green?style=for-the-badge&logo=nodedotjs)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.2-green?style=for-the-badge&logo=springboot)  
+![Kotlin](https://img.shields.io/badge/Kotlin-2.1.10-blue?style=for-the-badge&logo=kotlin)
 
 ---
 
@@ -36,8 +37,6 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?style=for-the-badge&logo=typescript)
 ![Docker](https://img.shields.io/badge/Docker-27.5-blue?style=for-the-badge&logo=docker)
-![Kotlin](https://img.shields.io/badge/Kotlin-2.1.10-blue?style=for-the-badge&logo=kotlin)
-
 
 ---
 
